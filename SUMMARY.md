@@ -5,14 +5,6 @@
 * [Overview](README.md)
 * [System Specifications](getting-started/system-specifications.md)
 
-## Installing the Components
-
-* [Wazuh Manager](installing-the-components/wazuh-manager.md)
-* [Sysmon (Windows)](installing-the-components/sysmon-windows.md)
-* [TheHive](installing-the-components/thehive.md)
-* [Shuffle](installing-the-components/shuffle.md)
-* [Wazuh Agent (Windows)](installing-the-components/wazuh-agent-windows.md)
-
 ## Wazuh Manager
 
 * [Installation](wazuh-manager/installation.md)
@@ -38,6 +30,14 @@
 
 * [Installation](thehive/installation.md)
 * [Integrating with Shuffle](thehive/integrating-with-shuffle.md)
+
+## Installing the Components
+
+* [Wazuh Manager](installing-the-components/wazuh-manager.md)
+* [Sysmon (Windows)](installing-the-components/sysmon-windows.md)
+* [TheHive](installing-the-components/thehive.md)
+* [Shuffle](installing-the-components/shuffle.md)
+* [Wazuh Agent (Windows)](installing-the-components/wazuh-agent-windows.md)
 
 ## Cortex
 
