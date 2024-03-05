@@ -39,15 +39,15 @@
 * [Installation](thehive/installation.md)
 * [Integrating with Shuffle](thehive/integrating-with-shuffle.md)
 
+## Cortex
+
+* [Installation](cortex/installation.md)
+
 ## Shuffle
 
 * [Installation](shuffle/installation.md)
 * [Workflows](shuffle/workflows/README.md)
   * [Mimikatz Workflow](shuffle/workflows/mimikatz-workflow.md)
-
-## Cortex
-
-* [Installation](cortex/installation.md)
 
 ## Case Studies
 
