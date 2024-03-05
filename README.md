@@ -15,7 +15,7 @@ We can learn more about the various networking options inside of VirtualBox from
 
 The architecture of the lab is as follows:
 
-<figure><img src=".gitbook/assets/Architecture.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Architecture.drawio.svg" alt=""><figcaption></figcaption></figure>
 
 
 
