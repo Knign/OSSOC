@@ -1,8 +1,18 @@
 # Mimikatz Workflow
 
+## Download
+
 You can download the Shuffle workflow for Mimikatz below:
 
 {% embed url="https://github.com/O-S-S-O-C/shuffle-workflows/blob/main/Mimikatz.json" %}
+
+
+
+## Configuration
+
+Once downloaded, you can import this workflow into you Shuffle dashboard. After that is done, add the requierd API keys in the respective fields for authentication.
+
+
 
 ## Workflow explanation
 
