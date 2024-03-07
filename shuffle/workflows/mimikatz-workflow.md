@@ -12,7 +12,7 @@ You can download the Shuffle workflow for Mimikatz below:
 
 Once downloaded, you can import this workflow into you Shuffle dashboard.&#x20;
 
-After that is done, add the following API keys in for authentication:
+After that is done, add in the following API keys for authentication:
 
 1. TheHive API key
 2. Cortex API key
