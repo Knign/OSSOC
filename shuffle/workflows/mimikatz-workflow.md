@@ -10,7 +10,12 @@ You can download the Shuffle workflow for Mimikatz below:
 
 ## Configuration
 
-Once downloaded, you can import this workflow into you Shuffle dashboard. After that is done, add the requierd API keys in the respective fields for authentication.
+Once downloaded, you can import this workflow into you Shuffle dashboard.&#x20;
+
+After that is done, add the following API keys in for authentication:
+
+1. TheHive API key
+2. Cortex API key
 
 
 
@@ -18,9 +23,9 @@ Once downloaded, you can import this workflow into you Shuffle dashboard. After 
 
 <figure><img src="https://lh7-us.googleusercontent.com/O8pNMV5VeCVa9wFW1ZqN5GubXzzirrSYHUgrZ0SADzAMqTJlaRV5znLpdCXWJTBttn0uu3KqV-ljtg1586sJ-tHufbwyZJwh5d0UI8KUoSS_VDmbXr1HpB_61ZF-D7bjpiAGoPqcE16c" alt=""><figcaption></figcaption></figure>
 
-### 1. Alert Extraction using webhook
+### 1. Alert Extraction using Webhook
 
-Wazuh alerts are obtained from the Wazuh server and posted to a webhook, facilitating efficient extraction and integration into the workflow for further processing and analysis.
+Wazuh alerts are obtained from the Wazuh server and posted to a Webhook, facilitating efficient extraction and integration into the workflow for further processing and analysis.
 
 ### 2. Hash extraction
 
