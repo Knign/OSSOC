@@ -11,7 +11,7 @@ We can learn more about the various networking options inside of VirtualBox from
 
 
 
-## Architecture
+## Topology
 
 The architecture of the lab is as follows:
 
