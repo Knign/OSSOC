@@ -1,4 +1,4 @@
-# Shuffle
+# Setup
 
 Shuffle is a SOAR tool which allows users to automate their SOC processes.
 

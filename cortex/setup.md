@@ -1,6 +1,6 @@
-# Installation
+# Setup
 
-## Dependencies
+## Installing dependencies
 
 {% tabs %}
 {% tab title="Debian" %}

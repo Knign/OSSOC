@@ -7,7 +7,7 @@
 
 ## Wazuh Manager
 
-* [Installation](wazuh-manager/installation.md)
+* [Setup](wazuh-manager/setup.md)
 * [Log Behaviour](wazuh-manager/log-behaviour/README.md)
   * [Creating logs for every event](wazuh-manager/log-behaviour/creating-logs-for-every-event.md)
   * [Adding custom Wazuh Rules](wazuh-manager/log-behaviour/adding-custom-wazuh-rules/README.md)
@@ -20,32 +20,24 @@
 
 ## Wazuh Agent (Windows)
 
-* [Installation](wazuh-agent-windows/installation.md)
+* [Setup](wazuh-agent-windows/setup.md)
 
 ## Sysmon
 
-* [Installation](sysmon/installation.md)
+* [Setup](sysmon/setup.md)
 
 ## TheHive
 
-* [Installation](thehive/installation.md)
+* [Setup](thehive/setup.md)
 * [Integrating with Shuffle](thehive/integrating-with-shuffle.md)
-
-## Installing the Components
-
-* [Wazuh Manager](installing-the-components/wazuh-manager.md)
-* [Sysmon (Windows)](installing-the-components/sysmon-windows.md)
-* [TheHive](installing-the-components/thehive.md)
-* [Shuffle](installing-the-components/shuffle.md)
-* [Wazuh Agent (Windows)](installing-the-components/wazuh-agent-windows.md)
 
 ## Cortex
 
-* [Installation](cortex/installation.md)
+* [Setup](cortex/setup.md)
 
 ## Shuffle
 
-* [Installation](shuffle/installation.md)
+* [Setup](shuffle/setup.md)
 * [Workflows](shuffle/workflows/README.md)
   * [Mimikatz Workflow](shuffle/workflows/mimikatz-workflow.md)
 

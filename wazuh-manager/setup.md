@@ -1,4 +1,4 @@
-# Wazuh Manager
+# Setup
 
 ## Installation
 
