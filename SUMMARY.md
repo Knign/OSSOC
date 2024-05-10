@@ -50,4 +50,5 @@
 
 ## Conclusion
 
+* [Created by](conclusion/created-by.md)
 * [References](conclusion/references.md)
