@@ -1,9 +1,12 @@
 # Table of contents
 
-## Getting Started
+## Overview
 
-* [Overview](README.md)
-* [System Specifications](getting-started/system-specifications.md)
+* [Challenges faced in modern SOCs](README.md)
+* [Aim of this project](overview/aim-of-this-project.md)
+* [Network](overview/network.md)
+* [Components](overview/components.md)
+* [System Specifications](overview/system-specifications.md)
 
 ## Wazuh Manager
 
