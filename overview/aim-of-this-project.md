@@ -1,7 +1,5 @@
 # Aim of this project
 
-##
-
 ## Automate Case Creation and Observables with Shuffle SOAR:&#x20;
 
 Utilize Shuffle SOAR to automate the creation of security cases upon detection of high-priority events. Shuffle will trigger workflows that interact with TheHive. These workflows will create cases in TheHive and extract relevant indicators of compromise (IOCs) from the events (e.g., IP addresses, domains, URLs). Shuffle can then add these IOCs as observables to the corresponding case within TheHive.&#x20;
