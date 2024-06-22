@@ -4,8 +4,7 @@
 
 * [Challenges faced in modern SOCs](README.md)
 * [Aim of this project](overview/aim-of-this-project.md)
-* [Network](<README (1).md>)
-* [Components](overview/components.md)
+* [Network Architecture](overview/network-architecture.md)
 * [System Specifications](getting-started/system-specifications.md)
 
 ## Wazuh Manager

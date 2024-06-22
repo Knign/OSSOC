@@ -1,4 +1,13 @@
-# Components
+# Network Architecture
+
+All the machines use the `NAT network` network mode inside of VirtualBox. This allows the malware to be contained in a virtual network such that it does not affect our physical host.
+
+We can learn more about the various networking options inside of VirtualBox from these resources:
+
+* [Virtual Networking](https://www.virtualbox.org/manual/ch06.html)
+* [VirtualBox networking - NAT, NAT network, bridged network, internal network, host only network](https://www.youtube.com/watch?v=2Fkf6Kysh7I\&t=461s)
+
+
 
 ## Topology
 
