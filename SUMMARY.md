@@ -53,4 +53,3 @@
 ## Conclusion
 
 * [Team](conclusion/team.md)
-* [References](conclusion/references.md)
