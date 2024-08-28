@@ -6,9 +6,9 @@ The Wazuh VM can be downloaded from the following link:
 
 {% embed url="https://packages.wazuh.com/4.x/vm/wazuh-4.7.2.ova" %}
 
-Alternatively we can use the following guide to install all the components step-by-step:
+Alternatively we can use the [installation guide](https://documentation.wazuh.com/current/installation-guide/index.html) to install all the components step-by-step:
 
-* [Installation guide](https://documentation.wazuh.com/current/installation-guide/index.html)
+
 
 Once the OVA file is downloaded import it inside if VirtualBox and set the Network Adapter to `Bridged adapter`.
 
