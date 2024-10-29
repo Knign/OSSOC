@@ -4,7 +4,7 @@
 
 You can download the Shuffle workflow for Mimikatz below:
 
-{% embed url="https://github.com/O-S-S-O-C/shuffle-workflows/blob/main/Mimikatz.json" %}
+{% embed url="https://github.com/F-O-S-S-O-C/shuffle-workflows/blob/main/Mimikatz.json" %}
 
 
 

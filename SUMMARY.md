@@ -49,7 +49,6 @@
   * [Mimikatz execution](case-studies/mimikatz/mimikatz-execution.md)
   * [Wazuh rule](case-studies/mimikatz/wazuh-rule.md)
   * [Shuffle workflow](case-studies/mimikatz/shuffle-workflow.md)
-* [POC 2](case-studies/poc-2.md)
 
 ## Conclusion
 
